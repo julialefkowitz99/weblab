@@ -1,0 +1,63 @@
+body{
+  background-color: rgb(150, 199, 204);
+  font-family: 'Muli', sans-serif;
+
+}
+h2 {
+  font-family:'Anton', sans-serif;
+}
+
+.important{
+
+
+border-style: solid;
+
+border-width: 7px;
+
+border-color: rgb(36, 95, 138);
+}
+
+.polaroid{
+  width: 284px;
+ padding: 10px 10px 20px 10px;
+ border: 1px solid #BFBFBF;
+ background-color: rgb(2, 123, 162);
+ box-shadow: 10px 10px 5px #aaaaaa;
+}
+.shadow {
+   color: rgb(37, 68, 135);
+   font: bold 25px Helvetica, Arial, Sans-Serif;
+     text-shadow: 1px 1px #fe4902,
+                  2px 2px #fe4902,
+                  3px 3px #fe4902;
+     -webkit-transition: all 0.12s ease-out;
+     -moz-transition:    all 0.12s ease-out;
+     -ms-transition:     all 0.12s ease-out;
+     -o-transition:      all 0.12s ease-out;
+  }
+  .shadow:hover {
+     position: relative;
+     top: -3px;
+     left: -3px;
+     text-shadow: 1px 1px #fea103,
+                  2px 2px #fea103,
+                  3px 3px #fea103,
+                  4px 4px #fea103,
+                  5px 5px #fea103;
+}
+
+.link
+{
+  text-decoration: none;
+  color: white;
+}
+
+.link:hover
+{
+  color: purple;
+}
+
+.container{
+  width: 60%;
+  margin: auto;
+}
