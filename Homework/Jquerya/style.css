@@ -1,0 +1,73 @@
+Header {
+
+}
+
+
+.container{
+
+}
+
+body{
+background-color: rgba(255, 0, 222, 0.13);
+}
+
+h1 {
+  color:rgba(196, 73, 121, 0.6);
+  font-size: 60px;
+}
+.sidebar{
+
+background-color:rgba(223, 88, 59, 0.49);
+box-shadow: 6px 7px 5px 2px #ededed;
+border-radius: 20px;
+
+}
+
+h2 {
+  color: rgba(223, 38, 81, 0.72);
+}
+
+  aside ul
+  {
+    list-style-type: none;
+    padding-left: 0px;
+    margin: 0px;
+  }
+  aside ul li
+  {
+    height: 57px;
+    position: relative;
+  }
+  aside ul li a
+  {
+    display: block;
+    width: 100%;
+    line-height: 57px;
+    text-align: center;
+    text-decoration: none;
+    border-bottom: 1px solid #c7c7c7;
+    color: rgba(223, 38, 81, 0.72)
+  }
+  aside ul li a:hover
+  {
+    background-color: #cccccc;
+    border-top: 1px solid #22A8AA;
+    border-bottom: 1px solid #22A8AA;
+  }
+
+  .gridmain
+  {
+    width: 90%;
+    height: 40vh;
+    margin: auto;
+    display: grid;
+    grid-template-rows: %;
+    grid-template-columns: 20% 40% 40%;
+    grid-row-gap: 100px;
+    grid-column-gap: 120px;
+
+}
+.step1
+
+
+}
